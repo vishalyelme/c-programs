@@ -6,7 +6,7 @@ int* array(){
 return arr;
 }
 void main(){
-    int i,*p;
+    int j,i,*p;
     p=array();
     for(i=0;i<5;i++){
         printf("%d ",*p);
