@@ -16,4 +16,5 @@ void main(){
 /*this program shows  warning: function returns address of local variable [-Wreturn-local-addr]
  return arr;
         ^~~*
-        error because the scope of the array has ended as soon as the function ends/
+        error because the scope of the array has ended as soon as the function ends
+*/
